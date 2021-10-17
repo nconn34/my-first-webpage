@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  font-style: Verdana;
+  color: green;
+  font-weight: 700;
+}
+
+h2 {
+  text-align: center;
+  font-style: serif;
+  color: lightblue;
+  font-weight: 300;
+}
+
+h3{
+  text-align:center;
+  font-style:Verdana;
+  color:lightgreen;
+  font-weight:300
+}
+
+a {text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
